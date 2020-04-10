@@ -1,0 +1,133 @@
+body {
+  background-color: #C0C0C0;
+  margin: 0;
+  text-align: center;
+  font-family: Sacramento, sans-serif;
+}
+hr  {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+}
+h2 {
+  font-family: roboto;
+}
+
+h3 {
+  font-family: roboto;
+}
+
+p {
+  margin-top: 10px;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+a {
+  font-family: roboto;
+  text-decoration: none;
+  margin: 10px 30px;
+}
+a:hover {
+color:white;
+}
+.heading1 {
+  color: #66BFBF;
+  font-size: 90px;
+  margin-bottom: 0;
+  font-weight: bolder;
+  line-height: 80px;
+}
+
+.top {
+  padding: 20px;
+}
+
+.cloud1 {
+  display: inline-block;
+  position: relative;
+  margin-right: 500px;
+  padding-top: 20px;
+}
+
+.cloud2 {
+  display: inline-block;
+  position: absolute;
+  margin-left: 150px;
+}
+
+.code_img {
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.middle {
+  padding-top: 100px;
+}
+
+.Name {
+  margin: 0 auto;
+}
+
+.mountain1 {
+  display: block;
+  padding-top: 100px;
+  margin: 0 auto;
+}
+
+.skills {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.code_img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.Prog-img {
+  width: 20%;
+  float: right;
+  margin-right: 30px;
+}
+.contact-me {
+  background-color: #66BFBF;
+  padding: 50px 0 50px;
+}
+.btn {
+	box-shadow:inset 0 1px 0 0 #dcecfb;
+	background:linear-gradient(to bottom, #bddbfa 5%, #80b5ea 100%);
+	background-color:#bddbfa;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #528ecc;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #80b5ea 5%, #bddbfa 100%);
+	background-color:#80b5ea;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+ .copr {
+   font-size: 8px;
+ }
